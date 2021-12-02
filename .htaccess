@@ -1,2 +1,0 @@
-RewriteEngine on
-RedirectMatch 301 /cv https://github.com/senceryazici/cv/releases/latest/download/main.pdf
