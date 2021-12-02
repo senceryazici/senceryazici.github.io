@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^/cv(.*)$ https://github.com/senceryazici/cv/releases/latest/download/main.pdf [L,R=301]
