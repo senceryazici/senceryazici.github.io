@@ -1,5 +1,5 @@
 <?php
-    $file = "https://github.com/senceryazici/cv/releases/latest/download/main.pdf"
+    $file = "github.com/senceryazici/cv/releases/latest/download/main.pdf"
 
     header("Content-Description: File Transfer"); 
     header("Content-Type: application/octet-stream"); 
