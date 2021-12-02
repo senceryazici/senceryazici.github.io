@@ -1,1 +1,0 @@
-<?php header("Location: http://github.com/senceryazici/cv/releases/latest/download/main.pdf"); ?>
