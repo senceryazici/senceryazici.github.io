@@ -25,7 +25,7 @@ jobs:
       env:
           SSH_PRIVATE_KEY: ${{ secrets.ITU_SERVER_SSH }}
           ARGS: "-rltgoDzvO --delete"
-          SOURCE: "source/*"
+          SOURCE: "docs/*"
           REMOTE_HOST: ssh.itu.edu.tr
           REMOTE_USER: ${{ secrets.ITU_USER }}
           TARGET: ${{ secrets.ITU_TARGET }}
